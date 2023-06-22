@@ -1,0 +1,1 @@
+[{"py/object": "tradingStrategy01.Order", "type": "BUY", "datetime": "2022-02-09 09:16:00", "price": "38337.1"}, {"py/object": "tradingStrategy01.Order", "type": "SELL", "datetime": "2022-02-09 09:19:13", "price": "38385.95"}]
